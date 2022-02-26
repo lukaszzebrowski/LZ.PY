@@ -5,8 +5,7 @@ g='Wizualizacja danych'
 h=' grupa 3'
 print(g+h)
 #komentarz
-#TODO: aa
-#FIXME: aaa
+
 
 a = 'isi\ngrupa niestacjonarna'
 
