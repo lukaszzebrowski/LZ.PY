@@ -10,13 +10,21 @@
 # słownik['key2'] = 'nowa wartosc' # nadanie nowej wartosci
 # print(słownik) #sprawdzenie wartosci
 
-lista = [1, 2, 3, 4, 5, 6]
+# lista = [1, 2, 3, 4, 5, 6]
+# print(lista)
+# del lista[0]
+# print(lista)
+# lista[4] = 10
+# print(lista)
+
+lista = []
+i = 0
+
+while i<10:
+    print('Podaj ' + str(i+1) + ' liczbe' )
+    x = int(input())
+    if x%2==0:
+        lista.append(x)
+    i+=1
+
 print(lista)
-del lista[0]
-print(lista)
-lista[4] = 10
-print(lista)
-
-
-
-
