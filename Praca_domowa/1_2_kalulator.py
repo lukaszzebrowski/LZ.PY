@@ -1,4 +1,5 @@
 
+#Stwórz skrypt kalkulator, w którym wykorzystać wszystkie podstawowe działania arytmetyczne
 a = 9
 b = 4
 c = a+b
