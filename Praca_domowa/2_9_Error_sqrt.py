@@ -4,7 +4,7 @@ import math
 
 print('Policz pierwiastek z liczby: ')
 
-x = input('(Podaj liczbę i zatwierdź przyciskiem ENTER: ')
+x = input('Podaj liczbę i zatwierdź przyciskiem ENTER: ')
 x = int(x)
 
 try:
