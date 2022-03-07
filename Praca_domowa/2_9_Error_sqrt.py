@@ -11,4 +11,4 @@ try:
     pierwiastek = math.sqrt(x)
     print(pierwiastek)
 except ValueError:
-    print('\aBłąd!! Wprowadzono liczbę ujemną!!')
+    print('Błąd!! Wprowadzono liczbę ujemną!!')
