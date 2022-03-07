@@ -1,3 +1,5 @@
+#Napisz skrypt, który policzy i wyświetli następujące wyrażenia:
+
 import math as mt
 import numpy as np
 
