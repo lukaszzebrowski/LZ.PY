@@ -1,6 +1,6 @@
 # Napisz pierwszy skrypt, w którym zadeklarujesz po dwie zmienne każdego typu a następnie wyświetl te zmienne
 
-a = 5
+a = 2
 b = 6
 c = 5.1
 d = 6.3
