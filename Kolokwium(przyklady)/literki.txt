@@ -1,0 +1,1 @@
+W wczytanym ciągu znakowym jest: 1 dużych liter, 19 małych liter, 1 liczb
