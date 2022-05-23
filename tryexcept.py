@@ -13,6 +13,6 @@ try:
     wynik=liczba1/liczba2
     print('Winik działania = '+str(wynik))
 except ZeroDivisionError:
-    print('Nie można dzielić przez 0.!!!')
+    print('Nie można dzielić przez 0!!!')
 except ValueError:
     print('Nie wczytano liczby całkowitej!!!')
